@@ -1,0 +1,5 @@
+.movies {
+  padding-top: 70px;
+  display: flex;
+  flex-wrap: wrap;
+}
